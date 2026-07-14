@@ -1,4 +1,4 @@
-#About Me
+About Me
 
 Software Engineer passionate about building scalable systems, AI-powered applications, and modern SaaS products.
 
