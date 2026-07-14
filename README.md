@@ -99,7 +99,6 @@ Git • GitHub • Postman • VS Code • Figma
 ## 📈 Current Goals
 
 - 🚀 Build production-ready SaaS products
-- 🧠 Solve 300+ DSA problems
 - ⚡ Master Backend & System Design
 - 🌍 Build software used by real businesses
 - 💼 Create products with measurable business value
