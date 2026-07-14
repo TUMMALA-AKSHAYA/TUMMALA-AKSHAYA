@@ -1,13 +1,13 @@
-# 💫 About Me
+#About Me
 
 Software Engineer passionate about building scalable systems, AI-powered applications, and modern SaaS products.
 
 Interested in Backend Engineering, Artificial Intelligence, Distributed Systems, and product development with a focus on solving real-world business problems.
 
-## 🌐 Socials:
+##Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tummala-akshaya-a8a7a627a/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tummalaakshaya070@gmail.com) 
 
-# 💻 Tech Stack
+#Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,7 +49,7 @@ Interested in Backend Engineering, Artificial Intelligence, Distributed Systems,
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
+#GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TUMMALA-AKSHAYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=TUMMALA-AKSHAYA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TUMMALA-AKSHAYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
