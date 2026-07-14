@@ -1,6 +1,8 @@
-# 💫 About Me:
-Building software that solves real-world problems.<br><br>AI Engineer • Full-Stack Developer • SaaS Builder<br><br>Passionate about designing scalable backend systems, AI-powered applications, and products that create measurable business value.
+# 💫 About Me
 
+Software Engineer passionate about building scalable systems, AI-powered applications, and modern SaaS products.
+
+Interested in Backend Engineering, Artificial Intelligence, Distributed Systems, and product development with a focus on solving real-world business problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tummala-akshaya-a8a7a627a/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tummalaakshaya070@gmail.com) 
